@@ -62,6 +62,7 @@ export default function Navbar() {
                   <MenuItem>Account Settings</MenuItem>
                   <MenuItem>Logout</MenuItem>
                 </MenuList>
+                <Button>Login</Button>
               </Menu>
             </Stack>
           </Flex>
